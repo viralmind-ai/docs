@@ -1,14 +1,6 @@
 ---
-icon: face-laugh-beam
-cover: >-
-  .gitbook/assets/DALL·E 2025-01-09 02.11.30 - A wide light-mode banner
-  background depicting the concept of collective training for an AI agent
-  without any text. The image features a futuristic AI .webp
-coverY: -22
+icon: bullseye-arrow
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -21,35 +13,35 @@ layout:
     visible: true
 ---
 
-# Welcome to viralmind.ai
+# Viralmind's Mission
 
-### What is viralmind.ai?
+At ViralMind, our mission is to revolutionize AI automation by enabling computer-use agents to learn directly from human demonstrations at scale. We believe that the future of AI is agentic, meaning AI systems should be capable of performing real-world tasks on a computer just as a human would— navigating software, managing files, automating workflows, and executing complex multi-step operations.
 
-> Imagine AI agents that genuinely use a computer like a human, spanning everything from **gaming** to **productivity**.
+We are building an **open and scalable ecosystem** where AI can be trained efficiently, fairly rewarded, and deployed in a way that benefits both businesses and users.
 
-_**viralmind.ai is that reality**_. We're an open-source, decentralized collective intelligence platform that **empowers everyone to train & deploy frontier agents** for games and desktop tasks. Play our AI-powered training gym or join human vs AI tournaments, gather imitation-learning data, and earn $VIRAL while contributing to **next generation of AI** — agents with powerful LAMs at their core. 🚀
+## Core Principles
 
-<figure><img src=".gitbook/assets/csclone-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption><p>Demonstration: A computer-use AI playing Counter-Strike in real-time using mouse and keyboard inputs, trained on human gameplay recordings, was able learn how to imitate behaviour such as peeking and spray control.</p></figcaption></figure>
+1. **AI as a workforce, not just a tool.**
+   1. Traditional AI models generate text and images, but Viralmind enables AI to **act**, automating takss like data entry, research, customer support, and e-commerce.
+2. **Human-Guided Training**
+   1. Unlike static training methods, we use a crowdsourced approach. Users provide **real demonstrations**, teaching AI how to execute tasks exactly as a human would. this builds AI systems that are practical and adaptable.
+3. **Open and Permissionless AI**
+   1. AI development as long been bottlenecked by closed ecosystems. Viralmind's approach allows anyone to contribute to AI training and benefit from the rewards, ensuring **decentralization and transparency** in AI automation.
+4. **Quality-Based Earnings for Contributions**
+   * AI trainers are compensated in **VIRAL**, our native token. Demonstrations are automatically evaluated for quality, creating an **incentive-aligned ecosystem** where high-quality demonstrations fuel better AI performance.
+5. **Scalability and Real-World Use Cases**
+   * ViralMind is designed for real applications, providing data from real desktops, scaling from **enterprise automation** to **personal AI assistants**, with seamless integration into existing software and workflows.
 
-## Who are we?
+## **Long-Term Vision**
 
-We are a team of passionate AI researchers and engineers — devs from MIT, Microsoft, and more — with years of experience building computer-use agents. Our mission is to democratize frontier AI research by bringing powerful Large Action Models (LAMs) to the crypto community. Integrated with $VIRAL, we can efficiently gather and reward high-quality user demonstrations, fueling the development of these LAMs. In turn, our agents learn from real computer-use data, enabling them to interpret on-screen tasks and generate keyboard & mouse actions directly.
+We envision a future where:
 
-> If you want AI agents that **DO** things, not just talk about or hallucinate clicking them, you’re in the right gitbook!
+* AI agents can **seamlessly replace manual digital labor**, allowing businesses and individuals to automate complex tasks without requiring technical expertise.
+* Users can **earn by teaching AI**, similar to how gig economy platforms reward human labor today.
+* Companies can **deploy AI workers**, scaling operations while reducing costs.
+* AI training is **decentralized and trustless**, removing reliance on a few large players to control AI development.
 
-## Why viralmind?
+By aligning economic incentives with AI progress, ViralMind is creating an **autonomous, decentralized, and self-improving AI workforce**.
 
-The blessing of computer-use, is _any_ application you can click is now a tool for your agent. Using **one-click fine-tuning** of GPT-4o on just **50 tasks** collected in our gamified training gym, our agents score a **\~30%** higher success rate than purely OCR-based baselines. Imagine scaling to **5,000 tasks** or more… Brace yourself for exponential growth.
 
-> Imagine telling your voice assistant "let's play this new co-op game", and they hop on as an in-game companion, capable of coordinating your next raid or speedrun while you’re taking that important call. It’s no longer just talk—our AI can actually play. As part of our vision, we’re dedicating a portion of the agent platform’s earnings toward the $VIRAL community’s marketing efforts, ensuring that the world sees the future we’re building together.
-
-## What do you provide?
-
-Everything you need to:
-
-* **Build your own computer-use agent quickly** through our intuitive & fun Training Gym
-* **Join the AI agent revolution** with $VIRAL, providing data via games and earning rewards.
-* **Deploy and watch agent tournaments** where game-playing & computer-use agents show off their skills in exciting live-streams, often humans vs AI with large drops of SOL or $VIRAL.
-* **Trade the agentic knowledge you generate** (coming soon)
-* **Deploy powerful, highly capable agents on-chain or on your desktop** (coming soon)
 

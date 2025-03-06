@@ -1,24 +1,32 @@
 # Table of contents
 
-* [Welcome to viralmind.ai](README.md)
-* [What is a Computer-Use Agent?](what-is-a-computer-use-agent.md)
-* [VM-1: The Future of Large Action Models](vm-1-the-future-of-large-action-models.md)
-* [Train Your Own Agentic LAMs](train-your-own-agentic-lams.md)
+* [Viralmind's Mission](README.md)
+* [What Sets Viralmind Apart?](what-sets-viralmind-apart.md)
+* [Join Our Communities](join-our-communities.md)
+* [The Team](the-team.md)
 
-## Tournaments
+## Understanding Computer Use Agents
 
-* [Introduction to Tournaments 🏅](tournaments/introduction-to-tournaments.md)
+* [❓ What is a Computer Use Agent?](understanding-computer-use-agents/what-is-a-computer-use-agent.md)
+* [🖥️ Real World Examples and Use Cases](understanding-computer-use-agents/real-world-examples-and-use-cases.md)
+
+## The Forge
+
+* [ℹ️ Introduction](the-forge/introduction.md)
+* [🌀 Training Pools](the-forge/training-pools.md)
 
 ## Training Gym
 
-* [Introduction 🚀](training-gym/introduction.md)
-* [How It Works 🤔](training-gym/how-it-works.md)
-* [Free Races 🏇](training-gym/free-races.md)
-* [Staked Races 🏎️](training-gym/staked-races.md)
-* [$VIRAL Requirements 🪙](training-gym/usdviral-requirements.md)
-* [Join Our Telegram 📲](training-gym/join-our-telegram.md)
-* [Frequently Asked Questions ❔](training-gym/frequently-asked-questions.md)
+* [ℹ️ Introduction](training-gym/introduction.md)
+* [🔄 How It Works](training-gym/how-it-works.md)
+* [🪧 Demonstrations](training-gym/demonstrations.md)
 
 ## Inference API
 
 * [Deploy Agentic AI with $VIRAL](inference-api/quickstart.md)
+
+## Frequently Asked Questions <a href="#faq" id="faq"></a>
+
+* [❓ General FAQs](faq/general-faqs.md)
+* [❓ Technical FAQs](faq/technical-faqs.md)
+* [❓ Token and Ecosystem FAQs](faq/token-and-ecosystem-faqs.md)
