@@ -12,7 +12,7 @@ Training Pools enable **dynamic, competitive AI training**, where contributors e
 
 * Gym creators deposit **$VIRAL, USDC, or their own token** to finance AI training. A 20% platform fee is taken from each deposit.
 * The pool is used to **pay workers who submit high-quality demonstrations**.
-* Web3 startups can stake $VIRAL to unlock the abilit to use their own token.
+* Web3 startups can stake $VIRAL to unlock the ability to use their own token.
 
 ### 2. **Dynamic Payouts Based on Demonstration Quality**
 
