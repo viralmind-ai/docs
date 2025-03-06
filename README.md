@@ -22,13 +22,13 @@ We are building an **open and scalable ecosystem** where AI can be trained effic
 ## Core Principles
 
 1. **AI as a workforce, not just a tool.**
-   1. Traditional AI models generate text and images, but Viralmind enables AI to **act**, automating takss like data entry, research, customer support, and e-commerce.
+   1. Traditional AI models generate text and images, but Viralmind enables AI to **act**, automating tasks like data entry, research, customer support, and e-commerce.
 2. **Human-Guided Training**
    1. Unlike static training methods, we use a crowdsourced approach. Users provide **real demonstrations**, teaching AI how to execute tasks exactly as a human would. This builds AI systems that are practical and adaptable.
 3. **Open and Permissionless AI**
    1. AI development as long been bottlenecked by closed ecosystems. Viralmind's approach allows anyone to contribute to AI training and benefit from the rewards, ensuring **decentralization and transparency** in AI automation.
 4. **Quality-Based Earnings for Contributions**
-   * AI trainers are compensated in **VIRAL**, our native token. Demonstrations are automatically evaluated for quality, creating an **incentive-aligned ecosystem** where high-quality demonstrations fuel better AI performance.
+   * AI trainers are compensated in $**VIRAL**, our native token. Demonstrations are automatically evaluated for quality, creating an **incentive-aligned ecosystem** where high-quality demonstrations fuel better AI performance.
 5. **Scalability and Real-World Use Cases**
    * ViralMind is designed for real applications, providing data from real desktops, scaling from **enterprise automation** to **personal AI assistants**, with seamless integration into existing software and workflows.
 

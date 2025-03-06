@@ -14,7 +14,7 @@ The team is not only **technically elite** but also **proven in high-stakes AI c
 
 ### **Dillon Dupont – Co-Founder & AI Systems Architect**
 
-📍 **MIT | AI Engineer at Microsoft**
+:books: **Massachusetts Institute of Technology**
 
 Dillon is the **architect behind ViralMind’s AI models, inference systems, and decentralized training infrastructure.** With **AI engineering experience at Microsoft** and deep research in **agentic AI and prompt engineering**, he is one of the most **technically proficient minds in the space.**
 
@@ -37,7 +37,7 @@ Dillon is the **architect behind ViralMind’s AI models, inference systems, and
 
 ### **Jaxon Heitz – Co-Founder & Operations Lead**
 
-📍 **Finance Student at UH Manoa | Serial Entrepreneur**
+:books: University of Hawaii Manoa
 
 Jaxon is the **strategic leader behind ViralMind**, ensuring the project’s success in **funding, growth, and business execution.** With multiple successful ventures under his belt, he has a **strong ability to navigate market challenges and sell the vision of ViralMind as a revolutionary AI model.**
 
@@ -60,7 +60,7 @@ Jaxon is the **strategic leader behind ViralMind**, ensuring the project’s suc
 
 ### **Morgan Dean – Co-Founder & Infrastructure Engineer**
 
-📍 **UBC | Cognitive Systems & Software Engineer**
+:books: University of British Columbia
 
 Morgan is the **software engineering powerhouse** of the team, responsible for **scaling ViralMind’s AI training infrastructure, deploying decentralized AI systems, and optimizing compute efficiency.** His background in **Cognitive Systems (COGS) from UBC** gives him a unique perspective on **human-AI interaction and machine learning optimization.**
 
