@@ -23,7 +23,7 @@
 
 ## Inference API
 
-* [Deploy Agentic AI with $VIRAL](inference-api/quickstart.md)
+* [🤖 Deploy Agentic AI with $VIRAL](inference-api/quickstart.md)
 
 ## Frequently Asked Questions <a href="#faq" id="faq"></a>
 
