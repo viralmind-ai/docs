@@ -10,6 +10,6 @@ Get real-time notifications about **new demonstrations, dev updates, and other p
 
 Receive real-time support for product issues.
 
-[**Join Our Discord**](https://discord.gg/C9NyQmkz5W)
+
 
 [**Join Our Telegram**](https://t.me/viralmind)
