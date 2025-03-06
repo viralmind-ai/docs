@@ -20,6 +20,7 @@
 * [ℹ️ Introduction](training-gym/introduction.md)
 * [🔄 How It Works](training-gym/how-it-works.md)
 * [🪧 Demonstrations](training-gym/demonstrations.md)
+* [📊 Demonstration Data](training-gym/demonstration-data.md)
 
 ## Inference API
 

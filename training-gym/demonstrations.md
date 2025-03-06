@@ -6,9 +6,9 @@ This ensures that **only high-quality demonstrations improve AI models**, while 
 
 ***
 
-### **How Demonstrations Work**
+## **How Demonstrations Work?**
 
-1️⃣ **Users Record Demonstrations**
+### 1. **Users Record Demonstrations**
 
 * Contributors **perform a task on their computer** while the system records every action.
 * The demonstration captures **clicks, keystrokes, UI navigation, and task execution**.
@@ -18,7 +18,7 @@ This ensures that **only high-quality demonstrations improve AI models**, while 
 
 ***
 
-2️⃣ **Processing & Structuring Data for AI Training**
+### 2. **Processing & Structuring Data for AI Training**
 
 * After recording, users **process their demonstration** to structure it into **clear, repeatable steps** AI can learn from.
 * AI models analyze **workflow sequences, decision-making logic, and UI interactions**, allowing them to **mimic human behavior efficiently**.
@@ -28,7 +28,7 @@ This ensures that **only high-quality demonstrations improve AI models**, while 
 
 ***
 
-3️⃣ **Submission & Quality Review**
+### 3. **Submission & Quality Review**
 
 * Once processed, users **upload their demonstration** for AI training.
 * Each submission is evaluated by **ViralMind’s data quality agent**, which grades it based on **clarity, accuracy, and effectiveness**.
