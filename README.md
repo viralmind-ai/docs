@@ -24,7 +24,7 @@ We are building an **open and scalable ecosystem** where AI can be trained effic
 1. **AI as a workforce, not just a tool.**
    1. Traditional AI models generate text and images, but Viralmind enables AI to **act**, automating takss like data entry, research, customer support, and e-commerce.
 2. **Human-Guided Training**
-   1. Unlike static training methods, we use a crowdsourced approach. Users provide **real demonstrations**, teaching AI how to execute tasks exactly as a human would. this builds AI systems that are practical and adaptable.
+   1. Unlike static training methods, we use a crowdsourced approach. Users provide **real demonstrations**, teaching AI how to execute tasks exactly as a human would. This builds AI systems that are practical and adaptable.
 3. **Open and Permissionless AI**
    1. AI development as long been bottlenecked by closed ecosystems. Viralmind's approach allows anyone to contribute to AI training and benefit from the rewards, ensuring **decentralization and transparency** in AI automation.
 4. **Quality-Based Earnings for Contributions**
