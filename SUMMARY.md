@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Viralmind's Mission](README.md)
+* [The $VIRAL Token](the-usdviral-token.md)
 * [What Sets Viralmind Apart?](what-sets-viralmind-apart.md)
 * [Join Our Communities](join-our-communities.md)
 * [The Team](the-team.md)
