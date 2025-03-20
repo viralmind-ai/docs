@@ -2,10 +2,9 @@
 description: >-
   Our trained planning models will be available via API, allowing you to
   integrate sophisticated computer-control AI into your applications.
-icon: bullseye-arrow
 ---
 
-# Deploy Agentic AI with $VIRAL
+# 🤖 Deploy Agentic AI with $VIRAL
 
 Stay tuned!
 
