@@ -5,7 +5,7 @@ icon: road
 
 # Roadmap
 
-<figure><img src=".gitbook/assets/Viralmind_Roadmap-March-18-2025.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Viralmind_Roadmap-March-18-2025_small.png" alt=""><figcaption></figcaption></figure>
 
 ## **Early April**
 
